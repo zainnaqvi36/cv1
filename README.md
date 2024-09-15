@@ -1,0 +1,1 @@
+Complete Case Analysis (CCA) is a straightforward method for handling missing data, where any row containing at least one missing value is omitted from the dataset. This method is commonly used when missing data is minimal and assumed to occur randomly. However, it may introduce bias if the missingness is related to the variables of interest.
